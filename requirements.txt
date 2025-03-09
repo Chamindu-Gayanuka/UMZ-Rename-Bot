@@ -1,0 +1,11 @@
+pyrogram
+pyromod
+humanize
+pymongo
+Pillow
+hachoir
+TgCrypto
+dnspython
+Flask
+gunicorn
+aiohttp
