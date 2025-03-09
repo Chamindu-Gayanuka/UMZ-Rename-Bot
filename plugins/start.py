@@ -33,14 +33,14 @@ async def start(client, message):
     await asyncio.sleep(2)
     await loading_sticker_message.delete()
     
-    text = f"""{message.from_user.mention} \nɪ  ᴀᴍ  ᴀɴ  ᴀᴅᴠᴀɴᴄᴇ  ꜰɪʟᴇ  ʀᴇɴᴀᴍᴇʀ  ᴀɴᴅ  ᴄᴏɴᴠᴇʀᴛᴇʀ  ʙᴏᴛ  ᴡɪᴛʜ  ᴘᴇʀᴍᴀɴᴇɴᴛ  ᴀɴᴅ  ᴄᴜsᴛᴏᴍ  ᴛʜᴜᴍʙɴᴀɪʟ  sᴜᴘᴘᴏʀᴛ.\n\nᴊᴜsᴛ  sᴇɴᴅ  ᴍᴇ  ᴀɴʏ  ᴠɪᴅᴇᴏ  ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ !!\nᴏᴡɴᴇʀ @TechifyBots</b>"""
+    text = f"""{query.from_user.mention} \n<b>I am an Advanced  File Renamer  Converter Bot With  Permanent and Custom  Thumbnail Support.\n\nJust Send Me Any Video or Document !!\n\nOwner - @GwitcherG</b>"""
     
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton("📢 Updates", url="https://telegram.me/TechifyBots"),
-        InlineKeyboardButton("💬 Support", url="https://telegram.me/TechifySupport")],
+        [InlineKeyboardButton("📢 Updates", url="https://t.me/Unlimited_Movie_Zone"),
+        InlineKeyboardButton("💬 Support", url="https://t.me/Unlimited_Movie_Zone")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/TechifyBots")]
+        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/GwitcherG")]
         ])
     
     await message.reply_photo(
@@ -86,9 +86,9 @@ async def send_doc(client, message):
     c_time = time.time()
 
     if user_type == "Free":
-        LIMIT = 120
+        LIMIT = 60
     else:
-        LIMIT = 10
+        LIMIT = 0
     then = used_date + LIMIT
     left = round(then - c_time)
     conversion = datetime.timedelta(seconds=left)
