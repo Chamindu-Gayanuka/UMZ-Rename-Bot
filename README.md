@@ -1,5 +1,7 @@
+<img src="https://telegra.ph/file/eb80582fa42f9bd412085.jpg" alt="UMZ-Rename-Bot">
+
 <h1 align="center">
- <b><a href="https://t.me/umzrename_bot" target="/blank">UMZ-Rename-Bot</a>
+ <b><a href="https://t.me/umzrename_bot" target="/blank">UMZ-Rename-Bot</a></b>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
