@@ -1,9 +1,9 @@
 {
-    "name": "Renamer Bot",
+    "name": "UMZ-Renamer-Bot",
     "description": "Telegram File Renamer Bot",
-    "logo": "https://graph.org/file/ada3f739fed7efdbe7b08.jpg",
+    "logo": "https://telegra.ph/file/eb80582fa42f9bd412085.jpg",
     "keywords": ["Premium Rename Bot", "Renamer Bot 4GB", "Mongo DB"],    
-    "repository": "https://github.com/TechifyBots/Rename-Bot",
+    "repository": "https://github.com/Chamindu-Gayanuka/UMZ-Rename-Bot",
     
     "env": {
         "API_ID": {
@@ -56,13 +56,13 @@
         
         "DATABASE_NAME":{ 
             "description":"Your Mongo DB Database Name",
-            "value": "TechifyBots",
+            "value": "Cluster0",
             "required": false
         },
         
         "START_PIC": {
             "description": "Your Bot Start Command Pic, You Can Get It From @GenTelegraphBot",
-            "value": "https://graph.org/file/ada3f739fed7efdbe7b08.jpg",
+            "value": "https://github.com/Chamindu-Gayanuka/UMZ-Rename-Bot",
             "required": false
         }
     },

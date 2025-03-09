@@ -20,8 +20,8 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
 
 # Mongo DB Database Config
 DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "TechifyBots")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ada3f739fed7efdbe7b08.jpg")
+START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/eb80582fa42f9bd412085.jpg")

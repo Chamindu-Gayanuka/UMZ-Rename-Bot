@@ -12,23 +12,23 @@ Price 0
 
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 49  ind /🌎 0.59$  per Month
+Price Rs 150  LKR/🌎 0.5$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 99  ind /🌎 1.19$  per Month
+Price Rs 300  LKR /🌎 1$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 179  ind /🌎 2.16$  per Month
+Price Rs 600  LKR /🌎 2$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>TechifyBots@UPI</code>
+<b>➜ Contact Developer to Get Payment Options @GwitcherG </b>
 
-After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
+After Payment Send Screenshots Of Payment To Admin @GwitcherG"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/GwitcherG"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -44,23 +44,23 @@ Price 0
 
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 49  ind /🌎 0.59$  per Month
+Price Rs 150  LKR /🌎 0.5$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 99  ind /🌎 1.19$  per Month
+Price Rs 300  LKR /🌎 1$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 179  ind /🌎 2.16$  per Month
+Price Rs 600  LKR /🌎 2$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>TechifyBots@UPI</code>
+<b>➜ Contact Developer to Get Payment Options @GwitcherG </b>
 
-After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
+After Payment Send Screenshots Of Payment To Admin @GwitcherG"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/GwitcherG"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
