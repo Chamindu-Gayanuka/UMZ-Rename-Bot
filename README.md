@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/EssIq5aPOII" target="/blank">Rename-Bot</a>
+ <b><a href="https://t.me/umzrename_bot" target="/blank">UMZ-Rename-Bot</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -20,9 +20,9 @@
  - Convert video into file & vice versa.
  - Has a custom Start-up pic.
  - Force subscribe available.
- - Supports ulimited renaming at a time.
+ - Supports unlimited renaming at a time.
  - Deploy to Koyeb + Heroku + Railway + Render.
- - [Developer support](https://telegram.me/TechifySupport) 24x7
+ - [Developer support](https://t.me/GwitcherG) 24x7
 </details>
 
 
@@ -83,20 +83,14 @@ restart - Use This Command To Cancel All Process And Restart The Bot.
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 Credit Goes To [TechifyBots](https://github.com/TechifyBots)
-
-💘 Base Repo Credit [Jishu](https://github.com/JishuDeveloper)
+💝 Credit Goes To [Chamindu-Gayanuka](https://github.com/Chamindu-Gayanuka)
 
 💖 And Thank You So Much To All Who Help In This Journey.
 </details>
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/TechifySupport)
-
-### ☕ BUY ME A COFFEE
-- [PayPal](https://paypal.me/TechifyBots)
-- [UPI](https://TechifyBots.github.io/Donate)
+- [Developer](https://t.me/GwitcherG)
 
 ### 📌 NOTE
 
