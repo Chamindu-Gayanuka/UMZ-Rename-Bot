@@ -7,9 +7,9 @@ from script import *
 
 
 ON = [[InlineKeyboardButton('Metadata On ✅', callback_data='metadata_1')], [
-    InlineKeyboardButton('Set Custom Metadata', callback_data='cutom_metadata')]]
+    InlineKeyboardButton('Set Custom Metadata', callback_data='custom_metadata')]]
 OFF = [[InlineKeyboardButton('Metadata Off ❌', callback_data='metadata_0')], [
-    InlineKeyboardButton('Set Custom Metadata', callback_data='cutom_metadata')]]
+    InlineKeyboardButton('Set Custom Metadata', callback_data='custom_metadata')]]
 
 
 @Client.on_message(filters.private & filters.command('metadata'))
